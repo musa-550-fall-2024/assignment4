@@ -21,8 +21,8 @@ I have provided some of the code re: selenium
 
 ## Submission
 
-We'll be using GitHub for assignment submission again. You can set up your own private repository on GitHub for this assignment using the link below.
+We'll be using GitHub for assignment submission again . You can set up your own private repository on GitHub for this assignment using the link below.
 
-
+https://classroom.github.com/a/bXMCAiv1
 
 The assignment should be added to this GitHub repository before the deadline. You can add files to the repository through the web (github.com) interface or using the command line locally on your machine.
